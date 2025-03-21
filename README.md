@@ -1,1 +1,5 @@
-# Engineering_Dashboard
+# Engineering Dashboard
+
+## A dashboard for an engineering team 
+
+## Technologies used
