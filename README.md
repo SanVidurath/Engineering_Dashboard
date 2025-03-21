@@ -1,5 +1,8 @@
 # Engineering Dashboard
 
-## A dashboard for an engineering team 
+## Overview
+This is a dashboard for an engineering team
 
 ## Technologies used
+* HTML
+* CSS
